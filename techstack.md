@@ -4,9 +4,9 @@
 ramzimalhas/browserpilot is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [OpenAI](https://openai.com/) – Large Language Models
-- [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/) – Large Language Model Tools
 - [LLaMA](https://ai.meta.com/blog/large-language-model-llama-meta-ai/) – Large Language Models
+- [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/) – Large Language Model Tools
+- [OpenAI](https://openai.com/) – Large Language Models
 
 Full tech stack [here](/techstack.md)
 
@@ -17,9 +17,9 @@ Full tech stack [here](/techstack.md)
 ramzimalhas/browserpilot is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
-- <img width='25' height='25' src='https://img.stackshare.io/service/48791/default_350cf2fa84700345e34d9eef2ecc1aa29319e91a.jpg' alt='LlamaIndex'/> [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/) – Large Language Model Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/101870/default_110df704ee9867cb49e02a51b680222cc0b61823.png' alt='LLaMA'/> [LLaMA](https://ai.meta.com/blog/large-language-model-llama-meta-ai/) – Large Language Models
+- <img width='25' height='25' src='https://img.stackshare.io/service/48791/default_350cf2fa84700345e34d9eef2ecc1aa29319e91a.jpg' alt='LlamaIndex'/> [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
 
 Full tech stack [here](/techstack.md)
 
@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ramzimalhas/browserpilot](https://github.com/ramzimalhas/browserpilot)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|01/23/24 <br/>Report generated|
+|11<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
